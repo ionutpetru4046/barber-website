@@ -1,0 +1,15 @@
+{
+  "cSpell.words": [
+    "backgroundimg",
+    "barberheroimg",
+    "barberrshop",
+    "barberstyle",
+    "coverflow",
+    "daygrid",
+    "fitzgibbon",
+    "fullcalendar",
+    "timegrid"
+  ],
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "typescript.enablePromptUseWorkspaceTsdk": true
+}
