@@ -8,6 +8,7 @@
     "daygrid",
     "fitzgibbon",
     "fullcalendar",
+    "NEXTAUTH",
     "timegrid"
   ],
   "typescript.tsdk": "node_modules\\typescript\\lib",
